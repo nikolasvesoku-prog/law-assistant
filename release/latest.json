@@ -1,0 +1,11 @@
+{
+  "version": "1.1.5",
+  "notes": "v1.1.5 — Исправление вкладки «Обновления»\n\n- Вкладка «Обновления» теперь показывает версию 1.1.5 и все предыдущие.",
+  "pub_date": "2026-08-28T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQnVDdWxqL3U2Q2tDUlRLVjBraXhIYnVXM3N0SlozV09Da3FxRjg3ZzVYMElJNUJSaXZEMDQvNkpjMWRjWVcvVkQxVklsbXpxR1NKMGZUNjRMa2h2bEtTNWJGdStqT1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTIwNjY5CWZpbGU6bGF3LWFzc2lzdGFudF8xLjEuNV94NjQtc2V0dXAuZXhlCk5vNFRhbHhTd3RiUnhXRGlVZkJVYmVHM2FqQTZ3QWJUVURFNXd6ajRyUGQ2ZVZtQWU3MDZVd1hTaE9kM25IMmtHUC94eHdWdTVJZDR0cGp2bGx3RkN3PT0K",
+      "url": "https://github.com/nikolasvesoku-prog/T0nyStark-law-assistant/releases/download/v1.1.5/law-assistant_1.1.5_x64-setup.exe"
+    }
+  }
+}

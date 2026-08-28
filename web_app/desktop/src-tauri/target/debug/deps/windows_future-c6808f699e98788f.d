@@ -1,0 +1,10 @@
+C:\Program\Helper\web_app\desktop\src-tauri\target\debug\deps\windows_future-c6808f699e98788f.d: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings_impl.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\get.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\waiter.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\../readme.md
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\debug\deps\libwindows_future-c6808f699e98788f.rmeta: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings_impl.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\get.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\waiter.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\../readme.md
+
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\lib.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings_impl.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\get.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\waiter.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\../readme.md:

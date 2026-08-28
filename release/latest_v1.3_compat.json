@@ -1,0 +1,11 @@
+{
+  "version": "1.1.4",
+  "notes": "v1.1.4 — Глобальное обновление. Окно-помощник\n\nПо кнопке \"+\" — отдельное окно-помощник.\nАвтообновление включено — установщик скачается и установится автоматически.",
+  "pub_date": "2026-08-28T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQnVDdWxqL3U2Q2l1SzlCMlF6N2h1TzhVVldDWDgxMkw4bDkrL1liTVFRa2ZEK3JRQ0QzQlZUbW1tRzU4MUhCZG5jMDdRMU1tV3lQeVpyMU5abENQckpWMy8zbERpQXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3OTE1OTc4CWZpbGU6bGF3LWFzc2lzdGFudF8xLjEuNF94NjQtc2V0dXAuZXhlCnJ2cGU1TlhEbVpPVjNCbks3eFFsQmpPVVhuQkxXT1lWS2wxVXNzNjN0djF6WmRvS3V0Ri9vSlRidUM5MjZZUzhjOTJ6eFJQamVsb3ZybFpaL25qakNBPT0K",
+      "url": "https://github.com/nikolasvesoku-prog/T0nyStark-law-assistant/releases/download/v1.1.4/law-assistant_1.1.4_x64-setup.exe"
+    }
+  }
+}

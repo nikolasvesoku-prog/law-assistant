@@ -1,0 +1,5 @@
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\build\indexmap-7858343233c9d026\build_script_build-7858343233c9d026.d: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indexmap-1.9.3\build.rs
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\build\indexmap-7858343233c9d026\build_script_build-7858343233c9d026.exe: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indexmap-1.9.3\build.rs
+
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\indexmap-1.9.3\build.rs:

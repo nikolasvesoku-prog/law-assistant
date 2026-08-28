@@ -1,0 +1,7 @@
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\form_urlencoded-c67bce11663e6ede.d: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\form_urlencoded-1.2.2\src\lib.rs
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libform_urlencoded-c67bce11663e6ede.rlib: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\form_urlencoded-1.2.2\src\lib.rs
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libform_urlencoded-c67bce11663e6ede.rmeta: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\form_urlencoded-1.2.2\src\lib.rs
+
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\form_urlencoded-1.2.2\src\lib.rs:

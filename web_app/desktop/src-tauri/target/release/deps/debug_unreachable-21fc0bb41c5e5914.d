@@ -1,0 +1,7 @@
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\debug_unreachable-21fc0bb41c5e5914.d: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\new_debug_unreachable-1.0.6\src\lib.rs
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libdebug_unreachable-21fc0bb41c5e5914.rlib: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\new_debug_unreachable-1.0.6\src\lib.rs
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libdebug_unreachable-21fc0bb41c5e5914.rmeta: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\new_debug_unreachable-1.0.6\src\lib.rs
+
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\new_debug_unreachable-1.0.6\src\lib.rs:

@@ -1,0 +1,8 @@
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\camino-6c1c6280606f5d2c.d: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\camino-1.2.5\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\camino-1.2.5\src\serde_impls.rs
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libcamino-6c1c6280606f5d2c.rlib: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\camino-1.2.5\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\camino-1.2.5\src\serde_impls.rs
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libcamino-6c1c6280606f5d2c.rmeta: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\camino-1.2.5\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\camino-1.2.5\src\serde_impls.rs
+
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\camino-1.2.5\src\lib.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\camino-1.2.5\src\serde_impls.rs:

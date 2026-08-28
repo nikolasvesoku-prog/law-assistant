@@ -1,0 +1,11 @@
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\tauri_runtime-161f2678c37ec758.d: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\dpi.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\monitor.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\webview.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\window.rs
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libtauri_runtime-161f2678c37ec758.rlib: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\dpi.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\monitor.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\webview.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\window.rs
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libtauri_runtime-161f2678c37ec758.rmeta: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\dpi.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\monitor.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\webview.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\window.rs
+
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\lib.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\dpi.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\monitor.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\webview.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-runtime-2.11.3\src\window.rs:

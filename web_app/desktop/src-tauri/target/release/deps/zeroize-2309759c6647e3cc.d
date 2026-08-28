@@ -1,0 +1,11 @@
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\zeroize-2309759c6647e3cc.d: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\x86.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\barrier.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\stack.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\../README.md
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libzeroize-2309759c6647e3cc.rlib: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\x86.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\barrier.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\stack.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\../README.md
+
+C:\Program\Helper\web_app\desktop\src-tauri\target\release\deps\libzeroize-2309759c6647e3cc.rmeta: C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\lib.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\x86.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\barrier.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\stack.rs C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\../README.md
+
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\lib.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\x86.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\barrier.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\stack.rs:
+C:\Users\nikol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.0\src\../README.md:
