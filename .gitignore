@@ -1,0 +1,7 @@
+web/web_app/desktop/src-tauri/target/
+web/web_app/client/node_modules/
+web/web_app/client/dist/
+*.exe
+*.sig
+*.pdb
+lj_*.json
